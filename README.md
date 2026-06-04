@@ -5,9 +5,13 @@ Objective: Analysis of historical stock performance using data and R
 Companies: AAPL,MSFT,AMZN,NVDA,TSLA
 
 Method:
+
 Downloaded stock data from Yahoo
+
 Calculated cumulative returns
+
 Compared investment growth
+
 Visualized the performance using ggplot2
 
 Findings:
